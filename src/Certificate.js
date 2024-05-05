@@ -2,8 +2,6 @@ import { useEffect, useState } from "react";
 import {useParams} from "react-router-dom"
 import { CertificateData } from "./CertificateData";
 import CertificateTemplate from "./CertificateTemplate";
-import { Font } from "@react-pdf/renderer";
-
 export default function Certificate() {
 
   const [certificate, setCertificate] = useState(null);
