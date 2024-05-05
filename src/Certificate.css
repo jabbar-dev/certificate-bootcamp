@@ -16,8 +16,8 @@
 }
 
 .certificate {
-    width: 765px; /* Set the width of the certificate */
-    height: 586px; /* Set the height of the certificate */
+    width: 865px; /* Set the width of the certificate */
+    height: 660px; /* Set the height of the certificate */
     border: 2px solid #bba149; /* Add a border */
     padding: 20px; /* Add some padding inside the certificate */
     font-family: Arial, sans-serif; /* Set the font family */
@@ -28,6 +28,9 @@
     position: relative;
   }
 
+  .downloadbtn {
+    margin-top: 20px;
+  }
   .verifyNote {
 
     font-family: Montserrat;

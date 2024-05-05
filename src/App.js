@@ -1,7 +1,7 @@
-import './App.css';
 import { useState } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Certificate from './Certificate';
+
 
 function App() {
   const [certificateNumber, setCertificateNumber] = useState('');
@@ -17,16 +17,19 @@ function App() {
   };
 
   return (
-    <div className="App">
-      <h1>Hi Jabbar</h1>
-      <form onSubmit={handleSubmit}>
+    <div className="container">
+      <h1 className="text-3xl font-bold mb-4">Hi Jabbar</h1>
+      <form onSubmit={handleSubmit} className="d-flex">
         <input
           type="text"
           value={certificateNumber}
           onChange={handleChange}
           placeholder="Enter certificate number"
+          className="form-control me-2"
         />
-        <button type="submit">Go</button>
+        <button type="submit" className="btn btn-primary">
+          Go
+        </button>
       </form>
     </div>
   );
