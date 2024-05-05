@@ -97,7 +97,7 @@ const CertificateTemplate = (props) => {
       </div>
       <Helmet>
         <title>CONGRATULATIONS {name} FOR COMPLETING IT BOOTCAMP PROGRAM</title>
-        <meta property="og:title" content="Certificate Title" />
+        <meta property="og:title" content="IT BOOTCAMP CERTIFICATE" />
         <meta property="og:description" content="Congratulations For Completing IT BOOTCAMP PROGRAM BY SUKKUR IBA UNIVERSITY & IS&TD GOVERNMENT OF SINDH" />
         <meta property="og:image" content="URL_of_the_image" />
         <meta property="og:url" content={url} />
