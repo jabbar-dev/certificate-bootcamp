@@ -22,7 +22,7 @@ function App() {
     <div class="row justify-content-md-center">
     
       <center>
-      <img src={strip} style={{ width: '550px' }}/>
+      <img src={strip} alt="Logo" style={{ width: '550px' }}/>
       </center>
       <div class="mt-5 col col-lg-5">
       <form onSubmit={handleSubmit} className="d-flex">
