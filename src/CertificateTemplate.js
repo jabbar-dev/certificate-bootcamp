@@ -86,7 +86,7 @@ const CertificateTemplate = (props) => {
         </div>
         <div className='verifyNote'>
           <span className="badge text-bg-warning">Verify at</span>
-          <b> verify.sibau-itbootcamp.com/certificiate/{id} </b>
+          <b> {url} </b>
         </div>
         <br />
         <div className='btn-group'>
