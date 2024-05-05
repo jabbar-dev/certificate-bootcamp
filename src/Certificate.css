@@ -8,6 +8,13 @@
   src: url('./fonts/Montserrat-Bold.ttf') format('truetype'); /* Bold variant */
   font-weight: bold; /* Specify the font weight */
 }
+
+@font-face {
+  font-family: 'Sitka';
+  src: url('./fonts/Sitka-Heading.ttf') format('truetype'); /* Bold variant */
+  
+}
+
 .certificate {
     width: 765px; /* Set the width of the certificate */
     height: 586px; /* Set the height of the certificate */
@@ -59,14 +66,14 @@
     margin-left: 20px;
     padding-top: 20px;
     font-size: 40px;
-    font-family: Outfit;
+    font-family: Sitka;
     color:#244254
   }
 
   .line{
     margin-left: 20px;
     color:#ddb359;
-    margin-top: -30px;
+    margin-top: -40px;
     font-size: 40px;
   }
 
