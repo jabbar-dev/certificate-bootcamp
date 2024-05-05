@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./fonts/Montserrat-Regular.ttf') format('truetype'); /* Adjust the path to your font file */
+  /* Add additional font formats (e.g., woff, woff2) as needed */
+}
+
 .certificate {
     width: 765px; /* Set the width of the certificate */
     height: 586px; /* Set the height of the certificate */
