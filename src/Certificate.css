@@ -33,7 +33,6 @@
     font-family: Montserrat;
     font-size: 10px;
     text-align: left;
-    margin-top: -5px;
     padding-left: 10px;
     color:#244254
   }
@@ -83,6 +82,7 @@
     font-size: 12px;
     font-family: Montserrat;
     line-height: 19px;
+    text-transform: uppercase;
   }
 
   .signs{

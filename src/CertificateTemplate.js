@@ -57,7 +57,7 @@ const CertificateTemplate = (props) => {
         </div>
         <div className='belowText'>
           FOR SUCCESSFULLY COMPLETING HANDS-ON TRAINING IN 
-          <b>{course}</b><br/>
+          <b> {course}</b><br/>
           UNDER THE PROJECT OF  <br/>
           <b>IT INDUSTRY READINESS BOOTCAMP PROGRAM</b><br/>
           AT {center}
