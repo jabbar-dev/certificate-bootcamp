@@ -4,6 +4,7 @@ import { CertificateData } from "./CertificateData";
 import CertificateTemplate from "./CertificateTemplate";
 
 export default function Certificate() {
+
   const [certificate, setCertificate] = useState(null);
   const params = useParams();
   const { hi } = params
@@ -23,12 +24,8 @@ export default function Certificate() {
 
   return (
     <div>
-      <h1>
-        Certificate of {certificate.name}
-      </h1>
-      <p>Course: {certificate.cousrse}</p>
-      <p>Center: {certificate.center}</p>
-      <CertificateTemplate name={certificate.name} course={certificate.cousrse} center={certificate.center}/>
+     <center><h1>Congratulations On Completing IT BOOTCAMP PROGRAM</h1></center>
+      <CertificateTemplate name={certificate.name} course={certificate.cousrse} center={certificate.center} id={parseInt(hi)}/>
     </div>
   );
 }
