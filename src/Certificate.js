@@ -18,7 +18,7 @@ export default function Certificate() {
   }, [hi]);
 
   if (!certificate) {
-    return <div>Loading...</div>;
+    return <div><center><br/><br/> <span style={{fontSize : '20px'}} className="badge text-bg-danger">SORRY! <br/><br/>CERTIFICATE NOT FOUND!</span></center></div>;
   }
 
   return (
