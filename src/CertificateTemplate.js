@@ -1,13 +1,12 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import html2canvas from 'html2canvas';
 import jsPDF from 'jspdf';
 import './Certificate.css';
 import ribbon from './image/RIBBON.png';
 import signs from './image/signs.png';
 import backImg from './image/back.jpg';
-import { useEffect } from 'react';
 import { Helmet } from 'react-helmet';
-
+import copy from 'copy-to-clipboard'; // Import the copy-to-clipboard library
 
 const CertificateTemplate = (props) => {
   let name = props.name;
@@ -15,7 +14,9 @@ const CertificateTemplate = (props) => {
   let center = props.center;
   let id = props.id;
 
-const url = "https://google.com";
+  const url = `https://verifybootcamp.netlify.app/certificate/${id}`;
+
+  const [copyButtonText, setCopyButtonText] = useState('Copy Sharable URL'); // Button text state
 
   const downloadCertificate = () => {
     const certificateDiv = document.getElementById('certificate');
@@ -39,23 +40,23 @@ const url = "https://google.com";
       const imgWidth = pdf.internal.pageSize.getWidth();
       const imgHeight = canvas.height * imgWidth / canvas.width;
       pdf.addImage(imgData, 'PNG', 0, 0, imgWidth, imgHeight);
-      pdf.save('certificate.pdf');
+      pdf.save(`${name}_certificate_itbootcamp.pdf`);
     });
   };
 
-  const shareOnFacebook = () => {
-    const url = encodeURIComponent(`https://verifybootcamp.netlify.app/certificate/${id}`);
-    window.open(`https://www.facebook.com/sharer/sharer.php?u=${url}`, '_blank');
-  };
-
-  const shareOnLinkedIn = () => {
-    const url = encodeURIComponent(window.location.href);
-    window.open(`https://www.linkedin.com/shareArticle?url=${url}`, '_blank');
+  const handleCopyButtonClick = () => {
+    copy(url); // Copy URL to clipboard
+    setCopyButtonText('Copied'); // Update button text
   };
 
   useEffect(() => {
-    // Example of logic to execute on component mount
-  }, []);
+    // Reset button text after a short delay
+    const timer = setTimeout(() => {
+      setCopyButtonText('Copy Sharable URL');
+    }, 2000); // Reset button text after 2 seconds
+
+    return () => clearTimeout(timer); // Cleanup timer on component unmount
+  }, [copyButtonText]); // Run effect when copyButtonText changes
 
   return (
     <center>
@@ -87,13 +88,12 @@ const url = "https://google.com";
           <span className="badge text-bg-warning">Verify at</span>
           <b> verify.sibau-itbootcamp.com/certificiate/{id} </b>
         </div>
-        <br/>
+        <br />
         <div className='btn-group'>
           <button type="button" className="btn btn-success" onClick={downloadCertificate}>Download Certificate</button>
-          <button type="button" className="btn btn-primary" onClick={shareOnFacebook}>Share on Facebook</button>
-          <button type="button" className="btn btn-info" onClick={shareOnLinkedIn}>Share on LinkedIn</button>
+          <button type="button" className="btn btn-info" onClick={handleCopyButtonClick}>{copyButtonText}</button>
         </div>
-        <br/> <br/>
+        <br /> <br />
       </div>
       <Helmet>
         <title>CONGRATULATIONS {name} FOR COMPLETING IT BOOTCAMP PROGRAM</title>

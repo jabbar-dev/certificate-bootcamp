@@ -27,7 +27,7 @@ export default function Certificate() {
       <center>
       <span style={{fontSize : '20px'}} className="badge text-bg-success">CONGRATULATIONS! {certificate.name}</span></center>
       <br/>
-      <CertificateTemplate name={certificate.name} course={certificate.cousrse} center={certificate.center} id={parseInt(hi)}/>
+      <CertificateTemplate name={certificate.name} course={certificate.course} center={certificate.center} id={parseInt(hi)}/>
     </div>
   );
 }

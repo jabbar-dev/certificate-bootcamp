@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Certificate from './Certificate';
+import strip from './image/strip certificate.png'
 
 
 function App() {
@@ -17,21 +18,27 @@ function App() {
   };
 
   return (
-    <div className="container">
-      <h1 className="text-3xl font-bold mb-4">Hi Jabbar</h1>
+    <div className="container"><br/>
+    <div class="row justify-content-md-center">
+    
+      <center>
+      <img src={strip} style={{ width: '550px' }}/>
+      </center>
+      <div class="mt-5 col col-lg-5">
       <form onSubmit={handleSubmit} className="d-flex">
         <input
           type="text"
           value={certificateNumber}
           onChange={handleChange}
-          placeholder="Enter certificate number"
+          placeholder="Enter Your CNIC Number Without Dashes"
           className="form-control me-2"
         />
-        <button type="submit" className="btn btn-primary">
-          Go
+        
+        <button type="submit" className="btn btn-success">
+          View Certificate
         </button>
       </form>
-    </div>
+    </div></div></div>
   );
 }
 
