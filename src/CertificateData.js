@@ -2280,7 +2280,7 @@ export const CertificateData = [
     "certificate_id": 4550473058784
   },
   {
-    "name": "MiQUEST NAWABSHAH, SBAh Batool",
+    "name": "Misbah Batool",
     "course": "Mobile App Development",
     "center": "Sukkur IBA University Executive Development Center",
     "certificate_id": 4550280909694
@@ -3768,7 +3768,7 @@ export const CertificateData = [
     "certificate_id": 4150404940863
   },
   {
-    "name": "MiQUEST NAWABSHAH, SBAh Shaikh",
+    "name": "Misbah Shaikh",
     "course": "Mern Stack Development",
     "center": "PUBLIC SCHOOL HYDERABAD",
     "certificate_id": 4130328752844
