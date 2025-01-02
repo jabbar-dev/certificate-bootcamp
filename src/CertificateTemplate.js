@@ -3,6 +3,7 @@ import html2canvas from 'html2canvas';
 import jsPDF from 'jspdf';
 import './Certificate.css';
 import ribbon from './image/RIBBON.png';
+import ribbon2 from './image/RIBBON2.png';
 import signs from './image/signs.png';
 import backImg from './image/back.jpg';
 import { Helmet } from 'react-helmet';
@@ -63,7 +64,11 @@ const CertificateTemplate = (props) => {
       <div className="certificate" id="certificate">
         <img src={backImg} alt="Background" className="background-image" />
         <div className='logos'>
-          <img src={ribbon} alt="Ribbon" style={{ width: '420px' }} />
+          {course === "Gaming & Animation" ? (
+            <img src={ribbon2} alt="Ribbon" style={{ width: '420px' }} />
+          ) : (
+            <img src={ribbon} alt="Ribbon" style={{ width: '420px' }} />
+          )}
         </div>
         <div className='text'>
           THIS CERTIFICATE IS PROUDLY PRESENTED TO

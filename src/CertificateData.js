@@ -6792,679 +6792,6 @@ export const CertificateData = [
       "center": "Public School Hyderabad",
       "certificate_id": 4130231009343
     },
-
-      {
-        "name": "Aaisha",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-01"
-      },
-      {
-        "name": "Abdul Rafay",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-03"
-      },
-      {
-        "name": "Abdullah",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-04"
-      },
-      {
-        "name": "Abeeha Batool",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-05"
-      },
-      {
-        "name": "Afia Shaikh",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-06"
-      },
-      {
-        "name": "Aftab Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-07"
-      },
-      {
-        "name": "Bibi Rahmeen Mahzeb",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-10"
-      },
-      {
-        "name": "Bilawal Hussain",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-11"
-      },
-      {
-        "name": "Chandni Congreja",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-12"
-      },
-      {
-        "name": "Eman Rajput",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-14"
-      },
-      {
-        "name": "Fareed Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-16"
-      },
-      {
-        "name": "Ghufran",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-18"
-      },
-      {
-        "name": "Haseeb Ali Qureshi",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-74"
-      },
-      {
-        "name": "Hasin Ali",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-20"
-      },
-      {
-        "name": "Hira Shah",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-21"
-      },
-      {
-        "name": "Hoorain Fatima",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-22"
-      },
-      {
-        "name": "Huma Khoso",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-23"
-      },
-      {
-        "name": "Imtishal Pasha",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-24"
-      },
-      {
-        "name": "Iqra Yaseen",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-26"
-      },
-      {
-        "name": "Janat Gul",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-27"
-      },
-      {
-        "name": "Kabeer",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-29"
-      },
-      {
-        "name": "Kaneez Bibi Amna",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-30"
-      },
-      {
-        "name": "Kaneez Bibi Khadijatul Kubra",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-31"
-      },
-      {
-        "name": "Kashish",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-32"
-      },
-      {
-        "name": "Khizra Eeman",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-33"
-      },
-      {
-        "name": "Maaz Khan",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-34"
-      },
-      {
-        "name": "Maleeha Naz",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-35"
-      },
-      {
-        "name": "Midhat Fatima",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-36"
-      },
-      {
-        "name": "Muhammad Anas",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-37"
-      },
-      {
-        "name": "Muhammad Farjaz",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-38"
-      },
-      {
-        "name": "Muhammad Osama",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-40"
-      },
-      {
-        "name": "Muhammad Shahzaib",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-42"
-      },
-      {
-        "name": "Muhammad Umar Bhatti",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-43"
-      },
-      {
-        "name": "Muhammad Wajeeh Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-45"
-      },
-      {
-        "name": "Muhammad Yousuf",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-46"
-      },
-      {
-        "name": "Mujtaba Shabir",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-47"
-      },
-      {
-        "name": "Nadia Iqbal",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-48"
-      },
-      {
-        "name": "Naveed Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-49"
-      },
-      {
-        "name": "Noman Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-51"
-      },
-      {
-        "name": "Noor-Ul-Ain Kandhir",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-52"
-      },
-      {
-        "name": "Noor-Ul-Ain Ansari",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-72"
-      },
-      {
-        "name": "Rizwan Ali",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-54"
-      },
-      {
-        "name": "Sajjad",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-56"
-      },
-      {
-        "name": "Sania",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-57"
-      },
-      {
-        "name": "Seerat Muntaha",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-60"
-      },
-      {
-        "name": "Shahnaz",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-59"
-      },
-      {
-        "name": "Shayan Ali",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-61"
-      },
-      {
-        "name": "Sindhu Khalid",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-73"
-      },
-      {
-        "name": "Syed Hammad Aslam",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-63"
-      },
-      {
-        "name": "Syeda Fizza Fatima Hashmi",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-64"
-      },
-      {
-        "name": "Tahira Hakeem",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-65"
-      },
-      {
-        "name": "Waqar Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-68"
-      },
-      {
-        "name": "Wusatullah Mahar",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-68"
-      },
-      {
-        "name": "Yasir Nawaz",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-70"
-      },
-      {
-        "name": "Zahra Ali",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-71"
-      },
-      {
-        "name": "Dinesh Kumar",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-13"
-      },
-      {
-        "name": "Areeba Shaikh",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-09"
-      },
-      {
-        "name": "Abdul Basit",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-01"
-      },
-      {
-        "name": "Abdul Moeez Khan",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-02"
-      },
-      {
-        "name": "Abrar Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-03"
-      },
-      {
-        "name": "Adnan Mustafa",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-04"
-      },
-      {
-        "name": "Afia Mughal",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-05"
-      },
-      {
-        "name": "Ahtasham Janjua",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-06"
-      },
-      {
-        "name": "Ali Ajmal",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-07"
-      },
-      {
-        "name": "Ali Jan",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-08"
-      },
-      {
-        "name": "Ameer Buksh Khan",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-09"
-      },
-      {
-        "name": "Arij Awan",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-10"
-      },
-      {
-        "name": "Ayaz Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-13"
-      },
-      {
-        "name": "Ayesha Farooq",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-14"
-      },
-      {
-        "name": "Bushra",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-15"
-      },
-      {
-        "name": "Dua Balouch",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-16"
-      },
-      {
-        "name": "Faheem Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-17"
-      },
-      {
-        "name": "Faizan Uddin",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-18"
-      },
-      {
-        "name": "Fatima",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-19"
-      },
-      {
-        "name": "Fatima Faisal",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-20"
-      },
-      {
-        "name": "Hadiqa Gul Alias Fiza",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-21"
-      },
-      {
-        "name": "Hassan",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-22"
-      },
-      {
-        "name": "Hira Sadaf",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-24"
-      },
-      {
-        "name": "Inamullah",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-25"
-      },
-      {
-        "name": "Jaweria",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-26"
-      },
-      {
-        "name": "Junaid Shah",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-27"
-      },
-      {
-        "name": "Karan Kumar",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-28"
-      },
-      {
-        "name": "Kashif Ali",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-29"
-      },
-      {
-        "name": "Maheen Malaika",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-30"
-      },
-      {
-        "name": "Maryam Fatima",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-33"
-      },
-      {
-        "name": "Meher Dil Khan",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-34"
-      },
-      {
-        "name": "Muhammad Hasnain",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-38"
-      },
-      {
-        "name": "Muhammad Hassham",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-39"
-      },
-      {
-        "name": "Muhammad Musawar",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-39"
-      },
-      {
-        "name": "Muhammad Saeed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-41"
-      },
-      {
-        "name": "Muhammad Saqib Kamboh",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-42"
-      },
-      {
-        "name": "Muhammad Talha",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-43"
-      },
-      {
-        "name": "Muhammad Younas",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-44"
-      },
-      {
-        "name": "Musadiq Mazhar",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-46"
-      },
-      {
-        "name": "Muskan Fatima",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-47"
-      },
-      {
-        "name": "Naeemullah",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-50"
-      },
-      {
-        "name": "Naina Shaheen",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-51"
-      },
-      {
-        "name": "Naresh Kumar",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-52"
-      },
-      {
-        "name": "Nimra Malik",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-50"
-      },
-      {
-        "name": "Nimra Rao",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-53"
-      },
-      {
-        "name": "Rutaba",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-54"
-      },
-      {
-        "name": "Saima",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-55"
-      },
-      {
-        "name": "Samra Rana",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-57"
-      },
-      {
-        "name": "Sara Jawed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-008-58"
-      },
-      {
-        "name": "Shahzeen Bisma",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-60"
-      },
-      {
-        "name": "Shiwa",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-61"
-      },
-      {
-        "name": "Shoua Parveen",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-62"
-      },
-      {
-        "name": "Sobiya Shah",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-63"
-      },
-      {
-        "name": "Soomal",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-64"
-      },
-      {
-        "name": "Suhaib Ahmed",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-65"
-      },
-      {
-        "name": "Umm e Tehreem",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-67"
-      },
-      {
-        "name": "Zain Ul Abideen",
-        "course": "Gaming & Animation",
-        "center": "Sukkur IBA University",
-        "certificate_id": "SKR-007-70"
-      },
       {
         "name": "Kamran ali",
         "course": "Web Engineering",
@@ -9282,9 +8609,679 @@ export const CertificateData = [
         "course": "Gaming & Animation",
         "center": "Sir Syed University Karachi",
         "certificate_id": 4120316319983
-      }
-    
-
+      },
+        {
+          "name": "Aaisha",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 801
+        },
+        {
+          "name": "Abdul Rafay",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 803
+        },
+        {
+          "name": "Abdullah",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 804
+        },
+        {
+          "name": "Abeeha Batool",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 805
+        },
+        {
+          "name": "Afia Shaikh",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 806
+        },
+        {
+          "name": "Aftab Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 807
+        },
+        {
+          "name": "Bibi Rahmeen Mahzeb",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 810
+        },
+        {
+          "name": "Bilawal Hussain",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 811
+        },
+        {
+          "name": "Chandni Congreja",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 812
+        },
+        {
+          "name": "Eman Rajput",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 814
+        },
+        {
+          "name": "Fareed Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 816
+        },
+        {
+          "name": "Ghufran",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 818
+        },
+        {
+          "name": "Haseeb Ali Qureshi",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 874
+        },
+        {
+          "name": "Hasin Ali",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 820
+        },
+        {
+          "name": "Hira Shah",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 821
+        },
+        {
+          "name": "Hoorain Fatima",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 822
+        },
+        {
+          "name": "Huma Khoso",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 823
+        },
+        {
+          "name": "Imtishal Pasha",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 824
+        },
+        {
+          "name": "Iqra Yaseen",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 826
+        },
+        {
+          "name": "Janat Gul",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 827
+        },
+        {
+          "name": "Kabeer",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 829
+        },
+        {
+          "name": "Kaneez Bibi Amna",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 830
+        },
+        {
+          "name": "Kaneez Bibi Khadijatul Kubra",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 831
+        },
+        {
+          "name": "Kashish",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 832
+        },
+        {
+          "name": "Khizra Eeman",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 833
+        },
+        {
+          "name": "Maaz Khan",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 834
+        },
+        {
+          "name": "Maleeha Naz",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 835
+        },
+        {
+          "name": "Midhat Fatima",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 736
+        },
+        {
+          "name": "Muhammad Anas",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 837
+        },
+        {
+          "name": "Muhammad Farjaz",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 838
+        },
+        {
+          "name": "Muhammad Osama",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 840
+        },
+        {
+          "name": "Muhammad Shahzaib",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 842
+        },
+        {
+          "name": "Muhammad Umar Bhatti",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 843
+        },
+        {
+          "name": "Muhammad Wajeeh Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 845
+        },
+        {
+          "name": "Muhammad Yousuf",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 846
+        },
+        {
+          "name": "Mujtaba Shabir",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 847
+        },
+        {
+          "name": "Nadia Iqbal",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 848
+        },
+        {
+          "name": "Naveed Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 849
+        },
+        {
+          "name": "Noman Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 851
+        },
+        {
+          "name": "Noor-Ul-Ain Kandhir",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 852
+        },
+        {
+          "name": "Noor-Ul-Ain Ansari",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 872
+        },
+        {
+          "name": "Rizwan Ali",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 854
+        },
+        {
+          "name": "Sajjad",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 856
+        },
+        {
+          "name": "Sania",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 857
+        },
+        {
+          "name": "Seerat Muntaha",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 860
+        },
+        {
+          "name": "Shahnaz",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 759
+        },
+        {
+          "name": "Shayan Ali",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 861
+        },
+        {
+          "name": "Sindhu Khalid",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 873
+        },
+        {
+          "name": "Syed Hammad Aslam",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 863
+        },
+        {
+          "name": "Syeda Fizza Fatima Hashmi",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 864
+        },
+        {
+          "name": "Tahira Hakeem",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 865
+        },
+        {
+          "name": "Waqar Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 868
+        },
+        {
+          "name": "Wusatullah Mahar",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 768
+        },
+        {
+          "name": "Yasir Nawaz",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 870
+        },
+        {
+          "name": "Zahra Ali",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 871
+        },
+        {
+          "name": "Dinesh Kumar",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 813
+        },
+        {
+          "name": "Areeba Shaikh",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 809
+        },
+        {
+          "name": "Abdul Basit",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 701
+        },
+        {
+          "name": "Abdul Moeez Khan",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 702
+        },
+        {
+          "name": "Abrar Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 703
+        },
+        {
+          "name": "Adnan Mustafa",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 704
+        },
+        {
+          "name": "Afia Mughal",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 705
+        },
+        {
+          "name": "Ahtasham Janjua",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 706
+        },
+        {
+          "name": "Ali Ajmal",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 707
+        },
+        {
+          "name": "Ali Jan",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 708
+        },
+        {
+          "name": "Ameer Buksh Khan",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 709
+        },
+        {
+          "name": "Arij Awan",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 710
+        },
+        {
+          "name": "Ayaz Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 713
+        },
+        {
+          "name": "Ayesha Farooq",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 714
+        },
+        {
+          "name": "Bushra",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 715
+        },
+        {
+          "name": "Dua Balouch",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 716
+        },
+        {
+          "name": "Faheem Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 717
+        },
+        {
+          "name": "Faizan Uddin",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 718
+        },
+        {
+          "name": "Fatima",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 719
+        },
+        {
+          "name": "Fatima Faisal",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 720
+        },
+        {
+          "name": "Hadiqa Gul Alias Fiza",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 721
+        },
+        {
+          "name": "Hassan",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 722
+        },
+        {
+          "name": "Hira Sadaf",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 724
+        },
+        {
+          "name": "Inamullah",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 725
+        },
+        {
+          "name": "Jaweria",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 726
+        },
+        {
+          "name": "Junaid Shah",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 727
+        },
+        {
+          "name": "Karan Kumar",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 728
+        },
+        {
+          "name": "Kashif Ali",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 729
+        },
+        {
+          "name": "Maheen Malaika",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 730
+        },
+        {
+          "name": "Maryam Fatima",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 733
+        },
+        {
+          "name": "Meher Dil Khan",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 734
+        },
+        {
+          "name": "Muhammad Hasnain",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 738
+        },
+        {
+          "name": "Muhammad Hassham",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 739
+        },
+        {
+          "name": "Muhammad Musawar",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 839
+        },
+        {
+          "name": "Muhammad Saeed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 741
+        },
+        {
+          "name": "Muhammad Saqib Kamboh",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 742
+        },
+        {
+          "name": "Muhammad Talha",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 743
+        },
+        {
+          "name": "Muhammad Younas",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 744
+        },
+        {
+          "name": "Musadiq Mazhar",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 746
+        },
+        {
+          "name": "Muskan Fatima",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 747
+        },
+        {
+          "name": "Naeemullah",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 750
+        },
+        {
+          "name": "Naina Shaheen",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 751
+        },
+        {
+          "name": "Naresh Kumar",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 752
+        },
+        {
+          "name": "Nimra Malik",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 850
+        },
+        {
+          "name": "Nimra Rao",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 753
+        },
+        {
+          "name": "Rutaba",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 754
+        },
+        {
+          "name": "Saima",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 755
+        },
+        {
+          "name": "Samra Rana",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 757
+        },
+        {
+          "name": "Sara Jawed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 858
+        },
+        {
+          "name": "Shahzeen Bisma",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 760
+        },
+        {
+          "name": "Shiwa",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 761
+        },
+        {
+          "name": "Shoua Parveen",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 762
+        },
+        {
+          "name": "Sobiya Shah",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 763
+        },
+        {
+          "name": "Soomal",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 764
+        },
+        {
+          "name": "Suhaib Ahmed",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 765
+        },
+        {
+          "name": "Umm e Tehreem",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 767
+        },
+        {
+          "name": "Zain Ul Abideen",
+          "course": "Gaming & Animation",
+          "center": "Sukkur IBA University",
+          "certificate_id": 770
+        }
 
 
 ]
