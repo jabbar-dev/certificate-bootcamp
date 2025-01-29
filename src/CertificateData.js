@@ -5854,7 +5854,7 @@ export const CertificateData = [
       "name": "Naseem Ali",
       "course": "Cloud Solution Architecture",
       "center": "IBA IET Khairpur Campus",
-      "certificate_id": 4520570000000
+      "certificate_id": 4520567037579
     },
     {
       "name": "Sail Hussain",
