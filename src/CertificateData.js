@@ -11,6 +11,18 @@ export const CertificateData = [
     "center": "Sukkur IBA University Executive Development Center",
     "certificate_id": 4550504028049
   },
+
+  //Added by Kamran Shah (3March 2025)
+
+  {
+    "name": "Abdul Rehman Khan",
+    "course": "Data Science with Python",
+    "center": "Sukkur IBA University Executive Development Center",
+    "certificate_id": 4550496393973
+  },
+
+  //----- END Added -----
+
   {
     "name": "Abdul Basit",
     "course": "Web Engineering",
